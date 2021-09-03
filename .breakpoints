@@ -1,0 +1,54 @@
+{
+  "files": {
+    "src/Card.jsx": [
+      {
+        "id": "2134fbe4-52cc-4ce3-98fc-c96f6d18f437",
+        "line": 4,
+        "version": 739,
+        "index": 55
+      },
+      {
+        "id": "a65d9a84-c641-4d3a-870c-f69d0bf90b24",
+        "line": 11,
+        "version": 712,
+        "index": 297
+      }
+    ],
+    "src/Creators.jsx": [
+      {
+        "id": "907712a4-2a18-4233-80fa-a71d44fce22a",
+        "line": 16,
+        "version": 570,
+        "index": 325
+      },
+      {
+        "id": "a0651a08-bc5e-425c-ae9f-d76c0a92a149",
+        "line": 22,
+        "version": 570,
+        "index": 437
+      }
+    ],
+    "src/assets/scripts/services.js": [
+      {
+        "id": "57e0d04d-09b6-43ff-8488-92ed8f66d1bb",
+        "line": 7,
+        "version": 172,
+        "index": 182
+      }
+    ],
+    "src/assets/styles/Cards.css": [
+      {
+        "id": "5bcf33c3-454a-437c-9ed8-601d542bc453",
+        "line": 13,
+        "version": 102,
+        "index": 258
+      },
+      {
+        "id": "292f5eb2-6cbb-43c0-821c-0140735c4ade",
+        "line": 42,
+        "version": 69,
+        "index": 1030
+      }
+    ]
+  }
+}
